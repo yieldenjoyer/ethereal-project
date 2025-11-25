@@ -1,1 +1,1 @@
-Algorithmic trading bot, market maket making and multi dex bot Coming soon
+Algorithmic, market maket making and multi dex bot trading bot coming soon!
